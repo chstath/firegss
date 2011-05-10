@@ -20,3 +20,6 @@ syntax: regexp
 
 ^.*\.classpath
 FireGSS.komodoproject
+\.iml$
+\.ipr$
+\.iws$

@@ -1,0 +1,3 @@
+FireGSS is a desktop client for the [GSS](http://code.google.com/p/gss/) scalable storage service. It is implemented as either a Firefox extension or a native application for Windows, Mac and Linux, thus having access to the local system, something impossible to achieve with a web client like the one supplied with GSS.
+
+&lt;wiki:gadget url="http://www.ohloh.net/p/462411/widgets/project\_basic\_stats.xml" height="220" border="1"/&gt;
